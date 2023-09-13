@@ -1,0 +1,13 @@
+body {
+   height: 100vh;
+  box-sizing: border-box;
+
+}
+
+nav div a{
+  text-decoration: none;
+}
+
+#mynavbar {
+  margin-left: 50px;
+}
